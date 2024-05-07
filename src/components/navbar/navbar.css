@@ -1,0 +1,29 @@
+.content{
+    display: flex;
+    padding: 5px;
+    flex-direction: row;
+    gap: 700px;
+    margin-left: 50px;
+    border:1px solid black;
+    border-radius: 10px;
+}
+.body{
+    margin:40px;
+}
+.button1{
+    border-radius: 65.28px;
+    color: white;
+    background-color: black;
+    height:150px;
+    width: 124px;
+    top:24px;
+    left: 24px;
+    justify-items:end;
+    align-items: end;
+
+}
+.content1{
+    top:30px;
+    padding:24px;
+    align-items: end;
+}
